@@ -1,0 +1,11 @@
+{
+  "name": "babel_project",
+  "version": "1.0.0",
+  "description": "babel project",
+  "author": "IT Academy",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.18.10",
+    "@babel/core": "^7.18.13"
+  }
+}
